@@ -1,2 +1,4 @@
 javaScript
 React!
+PHP
+Ciência da computação
