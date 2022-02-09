@@ -27,53 +27,53 @@ O programa conta com mais de 1.500 horas de aulas online, aborda introdução ao
 
 ##### Bloco 4: Introdução - JavaScript
 
-- [ ] 4-1: _JavaScript - Primeiros passos
-- [ ] 4-2: _JavaScript - Array e loop For
-- [ ] 4-3: _JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4-4: _JavaScript - Objetos e funções
-- [ ] 4-5: _[Projeto - Playground Functions]
+- [x] 4-1: _JavaScript - Primeiros passos
+- [x] 4-2: _JavaScript - Array e loop For
+- [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos
+- [x] 4-4: _JavaScript - Objetos e funções
+- [x] 4-5: _[Projeto - Playground Functions]
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 
-- [ ] 5-1: _JavaScript - DOM e seletores
-- [ ] 5-2: _JavaScript - Trabalhando com elementos
-- [ ] 5-3: _JavaScript - Eventos
-- [ ] 5-4: _JavaScript - Web Storage
+- [x] 5-1: _JavaScript - DOM e seletores
+- [x] 5-2: _JavaScript - Trabalhando com elementos
+- [x] 5-3: _JavaScript - Eventos
+- [x] 5-4: _JavaScript - Web Storage
 - [ ] 5-5: _[Projeto - Meme Generator]
-- [ ] 5-6: _[Projeto - Arte com Pixels]
-- [ ] 5-7: _[Projeto - Lista de tarefas
+- [x] 5-6: _[Projeto - Arte com Pixels]
+- [x] 5-7: _[Projeto - Lista de tarefas
 - [ ] 5-7: _[Projeto - Adivinhe a Cor]
 - [ ] 5-7: _[Projeto - Carta Misteriosa]
 
 ##### Bloco 6: HTML & CSS avançado
 
-- [ ] 6-1: _HTML & CSS - Forms
-- [ ] 6-2: _Bibliotecas JavaScript e Frameworks CSS
-- [ ] 6-3: _CSS Flexbox - Part 1
-- [ ] 6-4: _CSS Flexbox - Part 2
-- [ ] 6-5: _CSS Responsivo - Mobile First
-- [ ] 6-6: _[Projeto - Página inicial do Facebook]
+- [x] 6-1: _HTML & CSS - Forms
+- [x] 6-2: _Bibliotecas JavaScript e Frameworks CSS
+- [x] 6-3: _CSS Flexbox - Part 1
+- [x] 6-4: _CSS Flexbox - Part 2
+- [x] 6-5: _CSS Responsivo - Mobile First
+- [x] 6-6: _[Projeto - Página inicial do Facebook]
 
 ##### Bloco 7: JavaScript ES6 & Testes Unitários
 
-- [ ] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7-2: _JavaScript ES6 - Objects
-- [ ] 7-3: _Testes unitários em JavaScript
-- [ ] 7-4: _[Projeto - JavaScript Testes Unitários]
+- [x] 7-1: _JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 7-2: _JavaScript ES6 - Objects
+- [x] 7-3: _Testes unitários em JavaScript
+- [x] 7-4: _[Projeto - JavaScript Testes Unitários]
 
 ##### Bloco 8: JavaScript ES6
 
-- [ ] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8-3: _JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais
-- [ ] 8-5: _[Projeto - Zoo functions]
+- [x] 8-1: _JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 8-2: _JavaScript ES6 - Higher Order Functions - map e filter
+- [x] 8-3: _JavaScript ES6 - Higher Order Functions - reduce
+- [x] 8-4: _JavaScript ES6 - spread operator, rest parameter, destructuring e mais
+- [x] 8-5: _[Projeto - Zoo functions]
 
 ##### Bloco 9: Assincronicidade & Callbacks
 
-- [ ] 9-1: _JavaScript Assíncrono e Callbacks
-- [ ] 9-2: _JavaScript Promises
-- [ ] 9-3: _[Projeto - Carrinho de Compras]
+- [x] 9-1: _JavaScript Assíncrono e Callbacks
+- [x] 9-2: _JavaScript Promises
+- [x] 9-3: _[Projeto - Carrinho de Compras]
 
 ##### Bloco 10: Jest
 
